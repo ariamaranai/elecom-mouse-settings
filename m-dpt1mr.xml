@@ -18,17 +18,17 @@
         <button5_etcKey>左Ctrl+Shift+Tab</button5_etcKey>
         <scrolls>6</scrolls>
         <tiltleft>37</tiltleft>
-        <tiltleft_etcKey>→</tiltleft_etcKey>
+        <tiltleft_etcKey>Ctrl+Tab</tiltleft_etcKey>
         <tiltright>37</tiltright>
-        <tiltright_etcKey>←</tiltright_etcKey>
+        <tiltright_etcKey>Ctrl+Shift+Tab</tiltright_etcKey>
         <hspeed>5</hspeed>
         <hlotate>5</hlotate>
         <hcount>0</hcount>
-        <button6>37</button6>
+        <button6>10</button6>
         <button6_etcKey>F11</button6_etcKey>
         <button7>37</button7>
-        <button7_etcKey>右Ctrl+W</button7_etcKey>
-        <button8>37</button8>
+        <button7_etcKey>Ctrl+W</button7_etcKey>
+        <button8>12</button8>
         <button8_etcKey>左Ctrl+Tab</button8_etcKey>
         <button9>55</button9>
         <button9_etcKey></button9_etcKey>
