@@ -13,7 +13,7 @@
         <tbutton>9</tbutton>
         <tbutton_etcKey></tbutton_etcKey>
         <button4>3</button4>
-        <button4_etcKey>左Ctrl+Tab</button4_etcKey>
+        <button4_etcKey>Ctrl+Tab</button4_etcKey>
         <button5>4</button5>
         <button5_etcKey>左Ctrl+Shift+Tab</button5_etcKey>
         <scrolls>6</scrolls>
