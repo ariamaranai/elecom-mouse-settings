@@ -18,9 +18,9 @@
         <button5_etcKey>左Ctrl+Shift+Tab</button5_etcKey>
         <scrolls>6</scrolls>
         <tiltleft>37</tiltleft>
-        <tiltleft_etcKey>Ctrl+Tab</tiltleft_etcKey>
+        <tiltleft_etcKey>左Windows+↓</tiltleft_etcKey>
         <tiltright>37</tiltright>
-        <tiltright_etcKey>Ctrl+Shift+Tab</tiltright_etcKey>
+        <tiltright_etcKey>左Windows+↑</tiltright_etcKey>
         <hspeed>5</hspeed>
         <hlotate>5</hlotate>
         <hcount>0</hcount>
